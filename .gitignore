@@ -1,0 +1,19 @@
+# Decompiled folders
+apktool-out/
+source/
+
+# Keystores & credentials
+*.keystore
+*.jks
+
+# Build artifacts and raw APK files
+*.apk
+
+# Project roadmap/scratch
+project.md
+
+# System/IDE files
+.DS_Store
+.vscode/
+.idea/
+*.log
