@@ -1,6 +1,10 @@
 # SnapEnhance Fix for Snapchat 14.13.0.45
 
-This repository documents the analysis, diagnosis, and fix for the instant crash occurring when injecting SnapEnhance (version `2.2.0`) into Snapchat (version `14.13.0.45`) on rooted Android devices (KernelSU/LSPosed).
+This repository documents the analysis, diagnosis, and fix for the instant crash occurring on rooted Android devices (KernelSU/LSPosed).
+
+### 📋 Version Info
+* **Snapchat:** `14.13.0.45` (arm64-v8a)
+* **SnapEnhance:** `2.2.0` (v2.2.0 stable / latest release)
 
 ---
 
